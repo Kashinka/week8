@@ -10,7 +10,6 @@
 
 .grid {
     display: grid;
-    grid-area: 2/1;
     grid-template-columns: 1fr 1fr;
     height: 50vh;
     width: 100%;
