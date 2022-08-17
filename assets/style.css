@@ -9,3 +9,12 @@
 .des-rel {
     height: 20vh;
 }
+
+.title {
+    height: 10vh;
+}
+
+.box {
+    height: 40vh;
+    border: 1px solid red;
+}
