@@ -1,6 +1,6 @@
 .container {
     width: 100vw;
-    height: 1000vh;
+    height: 100%;
     border: 1px solid blue;
 }
 
