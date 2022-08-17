@@ -1,3 +1,7 @@
 .row, .col {
     border: 1px solid red;
 }
+
+.gal {
+    height: 50vh;
+}
