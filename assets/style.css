@@ -13,6 +13,10 @@
 .title {
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 1 fr 1fr;
+    grid-auto-rows: minmax(100px, 2);
+    grid-template-areas: 
+      "title title title title"
+      "buy box buy box buy box";
+      border: 1px solid green;
 }
 
