@@ -16,11 +16,13 @@
 
 .title {
     display: grid;
+    height: 1fr;
     border: 1px solid green;
 }
 
 .buy-box {
     display: grid;
+    height: 4fr;
     border: 1px solid green;
 }
 
