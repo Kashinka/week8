@@ -17,7 +17,7 @@
 }
 
 .gallery, .title, .buy-box {
-    border: 1px solid green;
+    background-color: #4976bf;
 }
 
 .title-box {
