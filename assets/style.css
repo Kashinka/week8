@@ -6,15 +6,6 @@
     border: 1px solid red;
 }
 
-.des-rel {
-    height: 20vh;
-    width: 100%;
-}
-
-.des, .rel {
-    width: 100%;
-}
-
 .grid {
     display: grid;
     grid-area: 2/1;
@@ -41,4 +32,13 @@
 .buy-box {
     height: 80%;
     border: 1px solid green;
+}
+
+.des-rel {
+    height: 20vh;
+    width: 100%;
+}
+
+.des, .rel {
+    width: 100%;
 }
