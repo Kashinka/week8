@@ -10,18 +10,18 @@
     height: 20vh;
 }
 
+.title-box {
+    
+}
+
 .title {
     display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: 1 fr 1fr;
       border: 1px solid green;
       width: 50%;
 }
 
 .buy-box {
     display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: 1 fr 1fr;
       border: 1px solid green;
 }
 
