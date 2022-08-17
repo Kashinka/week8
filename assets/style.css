@@ -1,6 +1,7 @@
 .container {
     width: 100vw;
     height: 1000vh;
+    border: 1px solid blue;
 }
 
 .row, .col {
