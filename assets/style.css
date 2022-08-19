@@ -8,14 +8,14 @@
     border: 1px solid red;
 }
 
-.grid {
+/* .grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
     height: 50vh;
     width: 100%;
     gap: 10px;
     border: 1px solid green;
-}
+} */
 
 .gallery, .title, .buy-box {
     background-color: #4976bf;
