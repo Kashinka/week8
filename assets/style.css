@@ -17,6 +17,10 @@
     border: 1px solid green;
 } */
 
+.main-sheet {
+    width: 100%;
+}
+
 .gallery, .title, .buy-box {
     background-color: #4976bf;
 }
