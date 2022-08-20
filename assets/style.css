@@ -22,6 +22,7 @@
 }
 
 .gallery, .title, .buy-box {
+    align-items: center;
     background-color: #4976bf;
 }
 
@@ -50,7 +51,8 @@
 }
 
 .des, .rel {
-    width: 100%;
+    width: 80%;
     height: 20vh;
+    align-items: center;
     background-color: #4976bf;
 }
