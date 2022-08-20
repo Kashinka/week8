@@ -17,10 +17,6 @@
     border: 1px solid green;
 } */
 
-.main-sheet {
-    width: 100%;
-}
-
 .gallery, .title, .buy-box {
     align-items: center;
     color: white;
